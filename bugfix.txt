@@ -1,0 +1,2 @@
+THE bug is fixed
+Fixed login redirect issue
