@@ -1,1 +1,2 @@
-This is the poetal for authentication
+This is the portal for authentication
+Homepage is being added further
